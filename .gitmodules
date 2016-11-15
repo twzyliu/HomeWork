@@ -1,3 +1,6 @@
 [submodule "RichMan_Java_Function"]
 	path = RichMan_Java_Function
 	url = https://github.com/twzyliu/RichMan_Java_Function.git
+[submodule "RichMan_Java_Mechanism"]
+	path = RichMan_Java_Mechanism
+	url = https://github.com/twzyliu/RichMan_Java_Mechanism.git
