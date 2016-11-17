@@ -4,3 +4,6 @@
 [submodule "RichMan_Java_Mechanism"]
 	path = RichMan_Java_Mechanism
 	url = https://github.com/twzyliu/RichMan_Java_Mechanism.git
+[submodule "RichMan_Ruby_Mechanism"]
+	path = RichMan_Ruby_Mechanism
+	url = https://github.com/twzyliu/RichMan_Ruby_Mechanism.git
